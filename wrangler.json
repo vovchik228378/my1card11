@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "my1card11",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "a99d38da-dc88-4a99-89b2-42c6997acb86",
+      "database_name": "mapapp"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
